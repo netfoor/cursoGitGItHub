@@ -1,8 +1,8 @@
 alert("Bienvenido")
-alert("Ingresa tu nombre")
-let nombre = prompt()
-alert("Ingresa la contraseña. Es 123")
-let contraseña = prompt()
+let nombre = prompt("Ingresa tu nombre")
+
+let contraseña = prompt("Ingresa la contraseña. Es 123")
+
 if (contraseña == "123"){
     alert("Sabes seguir indicaciones")
 } else {
