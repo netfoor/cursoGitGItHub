@@ -1,6 +1,42 @@
 body
 {
     color: blueviolet;
-    background-color: rgb(43, 38, 38);
+    background-color: rgb(239, 226, 226);
     text-align: center;
+    font-family: fantasy;
+    margin: 0;
+    padding: 0;
+}
+#cabecera 
+{
+    background: #88f;
+    box-shadow: 0px 2px 20px 0px  rgba (0,0,0,0,0.75);
+    color: antiquewhite;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline 
+{
+    padding: 1em 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0,8em;
+}
+
+#container 
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
+#post 
+{
+    padding: 1em;
 }
