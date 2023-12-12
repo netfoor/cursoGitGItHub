@@ -3,7 +3,7 @@
 This is a blog created to learn how to use Git and GitHub with the help of Freddy Vega, CEO of Platzi 👨🏻‍💻
 
 
-###Blockquotes
+## Blockquotes
 
 This is my fist repository :D ❤️
 
@@ -14,6 +14,6 @@ pd: Tampoco sabía muy bien inglés JAJA pero hice mi mejor intento. ;p
 
 
 
-###Follow me on Instagram /u\ 
+### Follow me on Instagram /u\ 
 
 https://www.instagram.com/foor.rm/
