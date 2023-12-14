@@ -22,7 +22,8 @@ pd: Tampoco sabía muy bien inglés JAJA pero hice mi mejor intento. ;p
 - Cosas básicas de HTML, CSS
 - Trabajar en local y en remoto con GitHub 
 - Hacer Forks 
-- Usar links de imagenes para evitar binarios en los repositorios 
+- Usar links de imagenes para evitar binarios en los repositorios
+- hacer rebase, stash y saber que git clean no funciona para las cosas que metimos en gitignore 
 
 ### Follow me on Instagram /u\ 
 
