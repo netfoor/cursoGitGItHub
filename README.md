@@ -25,6 +25,8 @@ pd: Tampoco sabía muy bien inglés JAJA pero hice mi mejor intento. ;p
 - Usar links de imagenes para evitar binarios en los repositorios
 - hacer rebase, stash, cherry-pick y saber que git clean no funciona para las cosas que metimos en gitignore 
 
-### Follow me on Instagram /u\ 
+### Follow me on Instagram an Facebook/u\ 
 
 https://www.instagram.com/foor.rm/
+
+Facebook: Fortino Romero
